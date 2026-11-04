@@ -1,0 +1,10 @@
+name: MilitaryAddon
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A Minecraft add-on with weapons, military equipment, aiming targets, and many weapons.
+api-version: "1.21"
+commands:
+  military:
+    description: Main command for the Military Addon.
+    usage: /military
